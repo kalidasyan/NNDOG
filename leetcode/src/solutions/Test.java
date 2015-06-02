@@ -8,6 +8,9 @@ public class Test {
 //    	new ReverseInteger().test(1534236469);
 //    	new CompareVersionNumbers().test("1.0", "1.10");
 //    	new ZigZagConversion().test("PAYPALISHIRING", 3);
-    	new MinStack().test();
+//    	new MinStack().test();
+//    	new MaximumProductSubarray().test();
+//    	new ReverseWords().test();\
+    	new WordSearch().test();
     }
 }
