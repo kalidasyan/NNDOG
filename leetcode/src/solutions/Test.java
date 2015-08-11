@@ -9,6 +9,9 @@ public class Test {
 //    	new CompareVersionNumbers().test("1.0", "1.10");
 //    	new ZigZagConversion().test("PAYPALISHIRING", 3);
 //    	new MinStack().test();
+//    	new MaximumProductSubarray().test();
+//    	new ReverseWords().test();
+//    	new WordSearch().test();
 //    	new ValidSudoku().test();
 //    	new WordSearch().test();
 //    	new WordLadderII().test();
